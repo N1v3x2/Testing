@@ -20,3 +20,5 @@ struct ContentView_Previews: PreviewProvider {
         ContentView(document: .constant(Test_githubDocument()))
     }
 }
+
+// This is some random comment for git
