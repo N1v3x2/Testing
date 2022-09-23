@@ -22,3 +22,4 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 // This is some random comment for git
+// This is a second comment for git
